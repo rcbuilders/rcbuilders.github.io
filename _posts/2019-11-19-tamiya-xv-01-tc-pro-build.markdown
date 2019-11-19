@@ -18,7 +18,7 @@ tags: [Holidays, Hawaii]
 
 ![](https://drive.google.com/uc?id=1RYF_bgBUN2vSPoO6TBDVGu2nhZ1ZkohL)
 <p>
-무안단물을 받았으니, 효염을 보고자 베이링 탈지 후 오일링을 해줍니다.<br/>
+>무안단물을 받았으니, 효염을 보고자 베이링 탈지 후 오일링을 해줍니다.<br/>
 오일링을 한 후에 돌려보니.. 뭔가 느낌적인 느낌으로 잘 돌아가는 것 같습니다.ㅎ<br/>
 <br/>
 <br/>
@@ -26,7 +26,7 @@ tags: [Holidays, Hawaii]
 
 ![](https://drive.google.com/uc?id=11rLLCHaQeTKqkuh__pLuoPuGwYcrJSMN)
 <p>
-프론트쪽 기어들을 조립합니다.<br/>
+>프론트쪽 기어들을 조립합니다.<br/>
 세라그리스를 칫솔에 발라주고 기어 톱니에 쓱~쓱~ 발라줍니다.<br/>
 <br/>
 <br/>
@@ -34,7 +34,7 @@ tags: [Holidays, Hawaii]
 
 ![](https://drive.google.com/uc?id=1heu8slNY4GjA1KxMTUWZzeNJHm6OdZIC)
 <p>
-프론트 디프 기어는 솔리드 액슬입니다.<br/>
+>프론트 디프 기어는 솔리드 액슬입니다.<br/>
 일반 XV-01은 앞뒤 모두 기어 디프인 반면, TC PRO는 프론트는 솔리드 액슬, 리어는 기어 디프입니다.<br/>
 <br/>
 <br/>
