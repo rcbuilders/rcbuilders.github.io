@@ -7,27 +7,27 @@ img: 2019_tamiya_xv01_tc_pro/main.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
-전에 가지고 있던 XV-01 TC PRO 킷을 카페 회원님에게 판매를 했다가, 잊혀지지 않아서 카페의 다른 회원님에게 중고킷을 겟 했습니다.
-그리고, 일반 XV-01 랠리킷 + 중고 TC PRO 킷으로 XV-01 TC PRO 킷을 새로 만들어 보기로 했습니다.
-써놓고 보니 일반 XV-01 + TC PRO 킷으로 TC PRO 킷을 만들다니 뭔~ 쓸데없는 짓인가 싶습니다.ㅎㅎ
-그냥 새킷을 제손으로 만들고 싶었습니다. 중고 TC PRO 킷을 부품용으로 사용했습니다.
+전에 가지고 있던 XV-01 TC PRO 킷을 카페 회원님에게 판매를 했다가, 잊혀지지 않아서 카페의 다른 회원님에게 중고킷을 겟 했습니다.  
+그리고, 일반 XV-01 랠리킷 + 중고 TC PRO 킷으로 XV-01 TC PRO 킷을 새로 만들어 보기로 했습니다.  
+써놓고 보니 일반 XV-01 + TC PRO 킷으로 TC PRO 킷을 만들다니 뭔~ 쓸데없는 짓인가 싶습니다.ㅎㅎ  
+그냥 새킷을 제손으로 만들고 싶었습니다. 중고 TC PRO 킷을 부품용으로 사용했습니다.  
 
 
 
 ![](https://drive.google.com/uc?id=1RYF_bgBUN2vSPoO6TBDVGu2nhZ1ZkohL)
 
-무안단물을 받았으니, 효염을 보고자 베이링 탈지 후 오일링을 해줍니다.
-오일링을 한 후에 돌려보니.. 뭔가 느낌적인 느낌으로 잘 돌아가는 것 같습니다.ㅎ
+무안단물을 받았으니, 효염을 보고자 베이링 탈지 후 오일링을 해줍니다.  
+오일링을 한 후에 돌려보니.. 뭔가 느낌적인 느낌으로 잘 돌아가는 것 같습니다.ㅎ  
+  
+  
+  
+![](https://drive.google.com/uc?id=11rLLCHaQeTKqkuh__pLuoPuGwYcrJSMN)
 
-
-
-![](https://drive.google.com/uc?id=d/11rLLCHaQeTKqkuh__pLuoPuGwYcrJSMN)
-
-프론트쪽 기어들을 조립합니다.
-세라그리스를 칫솔에 발라주고 기어 톱니에 쓱~쓱~ 발라줍니다.
-
-
-
+프론트쪽 기어들을 조립합니다.  
+세라그리스를 칫솔에 발라주고 기어 톱니에 쓱~쓱~ 발라줍니다.  
+  
+  
+  
 ![](https://drive.google.com/uc?id=1heu8slNY4GjA1KxMTUWZzeNJHm6OdZIC)
 
 프론트 디프 기어는 솔리드 액슬입니다.
