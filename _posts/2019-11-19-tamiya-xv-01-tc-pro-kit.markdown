@@ -3,10 +3,12 @@ layout: post
 title: 타미야 XV-01 TC PRO 킷 구입
 date: 2019-11-19 13:32:20 -0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: https://drive.google.com/uc?id=1iaas5c9uRmoluk2ZR0oxqI9Cjy8koGej # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [RC, Builder, Tamiya, XV-01TCPRO]
 ---
+![Tamiya XV-01 TC PRO Box](https://drive.google.com/uc?id=1iaas5c9uRmoluk2ZR0oxqI9Cjy8koGej)
+
 XV-01 킷을 처음 보았을 때부터 온로드 투어링 킷이 있으면 어떨까? 라는 생각을 했었습니다.
 
 물론 그런 생각은 저만 했던게 아니었었습니다.
