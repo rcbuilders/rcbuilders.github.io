@@ -3,7 +3,7 @@ layout: post
 title: 타미야 XV-01 TC PRO 킷 구입
 date: 2019-11-19 13:32:20 -0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: https://drive.google.com/uc?id=1iaas5c9uRmoluk2ZR0oxqI9Cjy8koGej # Add image post (optional)
+img: (https://drive.google.com/uc?id=1iaas5c9uRmoluk2ZR0oxqI9Cjy8koGej) # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [RC, Builder, Tamiya, XV-01TCPRO]
 ---
